@@ -6,7 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 
-Safia Billah https://github.com/safiabillah \n
+Safia Billah https://github.com/safiabillah  
 Kevin Chan https://github.com/naruminato1
 
 ## Stakeholders
