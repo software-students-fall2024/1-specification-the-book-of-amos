@@ -8,6 +8,7 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 Safia Billah https://github.com/safiabillah  
 Kevin Chan https://github.com/naruminato1
+Sean Mo https://github.com/bairixie
 
 ## Stakeholders
 
