@@ -4,16 +4,43 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
-
 Safia Billah https://github.com/safiabillah  
 Kevin Chan https://github.com/naruminato1
-
+Simon Sherbet https://github.com/simesherbs
 Sean Mo https://github.com/bairixie
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+Stakeholder 1: Caryn, S. -- Advanced level baker/cook who used to run an online bakery business through Instagram.
+
+    Goals:
+        1. Find recipes based on what they already (mostly) have in the fridge.
+        2. Concise communication of recipe -- instructions and notes clearly represented with little bloat
+        3. Focused on pictures and videos. Want to *see* what friends made and/or shared, not simply read it.
+        4. Create folders to group recipes, in case they want to prepare for a multi-course meal.
+        5. Be able to link account to other social media.
+        6. Convert older handwritten recipes to digital without having to type it all by hand.
+
+    Frustrations:
+        1. Recipes only having volume measurements (cups, tablespoons, etc), but not mass measurements.
+        2. Paragraphs of backstory with recipe at the very end.
+        3. Lacking search features. Said that it can be tricky to find a recipe based on characteristics (flavor profile, country of origin, etc). Often times need to already have a dish in mind.
+        4. Other social media sites aren't formatted for easily reading or writing out recipes, often times resigned to writing them out in the description box of a picture or video post which is not ideal.
+
+Stakeholder 2: Lilly, S. -- Beginner level baker/cook
+
+    Goals: 
+        1. Want to see what friends are cooking/creating. More interested in a 'following' tab than a 'for you' tab.
+        2. Be able to compliment in comment on friends recipes/posts.
+        3. Create folders for different recipes.
+        4. Ask for suggestions from friends on what could be improved in a recipe.
+
+    Frustrations:
+        1. Recipe sites that lead with several paragraphs of back story before getting to the recipe.
+        2a. Recipes not being up-front about more specialized equipment (stand mixer, blender, etc)
+        2b. Not being able to search by required equipment.
+        3. Ads make many dedicated recipe websites actively aggravating to use. Overall experience is cluttered and clunky.
+        4. Difficult to get a sense of what a recipe may cost until she's already at the grocery store checkout. 
 
 ## Product Vision Statement
 
