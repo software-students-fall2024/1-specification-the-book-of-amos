@@ -44,7 +44,7 @@ Stakeholder 2: Lilly, S. -- Beginner level baker/cook
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+A recipe creation and sharing app that allows users to enagage with friends while making use of robust search features to find the perfect recipe for any dish.
 
 ## User Requirements
 1. As a user, I want to find recipes based on the ingredients I already have so that I can avoid unnecessary grocery shopping.
