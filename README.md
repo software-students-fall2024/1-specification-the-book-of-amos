@@ -77,6 +77,20 @@ A recipe creation and sharing app that allows users to enagage with friends whil
 
 15. As a user, I want to filter recipes by preparation time so that I can quickly find dishes that fit my available time.
 
+16. As a user, I want to scan handwritten recipes to quickly convert them into digital format so that I can store them easily without manually typing them out.
+
+17. As a user, I want to be able to follow my friends’ cooking activities and see what they are creating so that I can be inspired by their recipes and techniques.
+
+18. As a user, I want to comment on friends’ recipes and posts so that I can give feedback, suggestions, or compliments on their cooking.
+
+19. As a user, I want to avoid recipes that have long backstories or excessive ads, so that I can quickly access the instructions and start cooking.
+
+20. As a user, I want the app to suggest improvements or tweaks to my recipes based on feedback from friends so that I can continuously improve my cooking.
+
+21. As a user, I want to see an estimated cost of the recipe ingredients so that I can better plan my meals and avoid surprises at the grocery store.
+
+22. As a user, I want to log in securely using my credentials or social media accounts so that I can access my saved recipes, preferences, and shared content easily across devices.
+
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
