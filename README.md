@@ -8,6 +8,7 @@ Safia Billah https://github.com/safiabillah
 Kevin Chan https://github.com/naruminato1
 Simon Sherbet https://github.com/simesherbs
 Sean Mo https://github.com/bairixie
+Dylan Martin https://github.com/dm6288
 
 ## Stakeholders
 
@@ -29,7 +30,7 @@ Stakeholder 1: Caryn, S. -- Advanced level baker/cook who used to run an online 
 
 Stakeholder 2: Lilly, S. -- Beginner level baker/cook
 
-    Goals: 
+    Goals:
         1. Want to see what friends are cooking/creating. More interested in a 'following' tab than a 'for you' tab.
         2. Be able to compliment in comment on friends recipes/posts.
         3. Create folders for different recipes.
@@ -40,13 +41,14 @@ Stakeholder 2: Lilly, S. -- Beginner level baker/cook
         2a. Recipes not being up-front about more specialized equipment (stand mixer, blender, etc)
         2b. Not being able to search by required equipment.
         3. Ads make many dedicated recipe websites actively aggravating to use. Overall experience is cluttered and clunky.
-        4. Difficult to get a sense of what a recipe may cost until she's already at the grocery store checkout. 
+        4. Difficult to get a sense of what a recipe may cost until she's already at the grocery store checkout.
 
 ## Product Vision Statement
 
 A recipe creation and sharing app that allows users to enagage with friends while making use of robust search features to find the perfect recipe for any dish.
 
 ## User Requirements
+
 1. As a user, I want to find recipes based on the ingredients I already have so that I can avoid unnecessary grocery shopping.
 
 2. As a beginner cook, I want to see short tutorial videos or pictures for each step of the recipe so that I can improve my cooking skills.
