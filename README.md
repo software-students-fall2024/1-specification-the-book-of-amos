@@ -95,7 +95,12 @@ A recipe creation and sharing app that allows users to enagage with friends whil
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+1. User Story: **_"As a user, I want to find recipes based on the ingredients I already have so that I can avoid unnecessary grocery shopping."_**
+   ![Activity Diagram 1](Images/ActivityDiagram1.png)
+
+2. User Story: **_As a user, I want to create custom folders for different courses or occasions so that I can organize and plan multi-course meals easily._**
+
+![Activity Diagram 1](Images/ActivityDiagram2.png)
 
 ## Clickable Prototype
 
