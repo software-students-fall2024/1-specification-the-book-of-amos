@@ -5,10 +5,10 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 Safia Billah https://github.com/safiabillah  
-Kevin Chan https://github.com/naruminato1
-Simon Sherbet https://github.com/simesherbs
-Sean Mo https://github.com/bairixie
-Dylan Martin https://github.com/dm6288
+Kevin Chan https://github.com/naruminato1  
+Simon Sherbet https://github.com/simesherbs  
+Sean Mo https://github.com/bairixie  
+Dylan Martin https://github.com/dm6288  
 
 ## Stakeholders
 
@@ -102,6 +102,9 @@ A recipe creation and sharing app that allows users to enagage with friends whil
 
 ![Activity Diagram 1](Images/ActivityDiagram2.png)
 
-## Clickable Prototype
+## Link to Wireframe
+[Wireframe SWE Project 1](https://www.figma.com/design/LdjvzKXXkXycRMVRzxyWYN/wireframe-swe-project-1?node-id=0-1&t=01nhhMwPABZkl5n3-1)
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+## Link to Clickable Prototype
+[Prototype SWE Project 1](https://www.figma.com/proto/LdjvzKXXkXycRMVRzxyWYN/wireframe-swe-project-1?node-id=20-131&node-type=frame&t=E4uENQGhZkXm5ths-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=20%3A131)
+
