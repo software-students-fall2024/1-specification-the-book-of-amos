@@ -5,10 +5,10 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 Safia Billah https://github.com/safiabillah  
-Kevin Chan https://github.com/naruminato1
-Simon Sherbet https://github.com/simesherbs
-Sean Mo https://github.com/bairixie
-Dylan Martin https://github.com/dm6288
+Kevin Chan https://github.com/naruminato1  
+Simon Sherbet https://github.com/simesherbs  
+Sean Mo https://github.com/bairixie  
+Dylan Martin https://github.com/dm6288  
 
 ## Stakeholders
 
