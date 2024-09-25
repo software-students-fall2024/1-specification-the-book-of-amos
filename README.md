@@ -102,6 +102,9 @@ A recipe creation and sharing app that allows users to enagage with friends whil
 
 ![Activity Diagram 1](Images/ActivityDiagram2.png)
 
-## Clickable Prototype
+## Link to Wireframe
+[Wireframe SWE Project 1](https://www.figma.com/file/LdjvzKXXkXycRMVRzxyWYN/wireframe-swe-project-1?type=design&node-id=0-1&mode=design&t=01nhhMwPABZkl5n3-0)
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+## Link to Clickable Prototype
+[Prototype SWE Project 1](https://www.figma.com/proto/LdjvzKXXkXycRMVRzxyWYN/wireframe-swe-project-1?node-id=20-131&node-type=frame&t=E4uENQGhZkXm5ths-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=20%3A131)
+
